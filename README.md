@@ -33,7 +33,7 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
 </div>
 
 <details> 
-  <summary><h3>📘 Mis proyectos </h3></summary>
+  <summary><h3>📚 Mis proyectos </h3></summary>
 
   <div align="center">
     <a href=>
@@ -57,9 +57,9 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
 
 <details>
 
-<summary><h3>🛠️ Mis herramientas técnicas</h3></summary>
+<summary><h3>💻 Mis herramientas técnicas</h3></summary>
 
-<h4>- Lenguajes de programación:</h4> 
+<h4>💙 Lenguajes de programación:</h4> 
   <ul>
     <li>HTML </li>
     <li>CSS </li>
@@ -68,12 +68,12 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
     <li>Python </li>
     <li>Java</li>
   </ul>
-<h4>- Librerías:</h4> 
+<h4>💜 Librerías:</h4> 
   <ul>
     <li>Bootstrap</li>
     <li>Sass</li>
   </ul>
-<h4>- Frameworks:</h4> 
+<h4>💛 Frameworks:</h4> 
   <ul>
     <li>ReactJS </li>
     <li>NodeJS </li>
@@ -81,7 +81,7 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
     <li>NextJS </li>
     <li>Angular</li>
   </ul>
-<h4>- Bases de datos:</h4> 
+<h4>💚 Bases de datos:</h4> 
 <ul>
   <li>MongoDB </li>
   <li>MySQL</li>
@@ -92,17 +92,17 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
 
 <details>
 
-<summary><h3>🙂 Mis habilidades blandas</h3></summary>
+<summary><h3>😊 Mis habilidades blandas</h3></summary>
 
-<h4>- Proactividad: </h4> Soy una entusiasta para proponer ideas y diferentes acercamientos a la resolución de problemas. Trato de aprovechar cada oportunidad para mejorar mis habilidades y colaborar con mi equipo.
+<h4>✨ Proactividad: </h4> Soy una entusiasta para proponer ideas y diferentes acercamientos a la resolución de problemas. Trato de aprovechar cada oportunidad para mejorar mis habilidades y colaborar con mi equipo.
 
-<h4>- Amor por el aprendizaje: </h4>
+<h4>✨ Amor por el aprendizaje: </h4>
       Me apasiona aprender, no sólo sobre mi carrera, sino ¡Sobre todo! Cuando tengo un tiempito libre, trato de aprovecharlo para hacer cursos y aprender sobre diferentes habilidades, tareas, oficios.
 
-<h4>- Colaboración: </h4>
+<h4>✨ Colaboración: </h4>
       Creo firmemente en el poder del trabajo en equipo, siepre trato de adaptarme a los diferentes formatos de trabajo y aportar sinérgicamente desde mi lugar. 
 
-<h4>- Resolución de problemas: </h4>
+<h4>✨ Resolución de problemas: </h4>
       Me encanta enfrentarme desafíos lógicos y técnicos y sobre todo ¡Solucionarlos desde distintos enfoques!
 
 
