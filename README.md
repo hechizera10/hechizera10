@@ -1,8 +1,8 @@
 
-<p align='center'><a href='https://github.com/hechizera10'><img width="150px" alt="Logo" title="Logo" src='https://github.com/hechizera10/hechizera10/blob/main/sources/logo%204002.png'></a></p>
+<p align='center'><a href='https://github.com/hechizera10'><img width="150px" alt="Logo" title="Logo" src='sources/logo transparent.png'></a></p>
 
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=10000&pause=1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&color=0A3D6E&center=true&vCenter=true&width=600&height=40&lines=Mar%C3%ADa+Elena+Hayde%C3%A9+Ponce" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=10000&pause=1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&color=2B81F7&center=true&vCenter=true&width=600&height=40&lines=Mar%C3%ADa+Elena+Hayde%C3%A9+Ponce" alt="Typing SVG" /></a>
 </div>
 
    <div align=center>
@@ -116,7 +116,7 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
 </details>
 
 
-<p align='center'><img width="300px" alt="Firma" title="Firma" src='https://github.com/hechizera10/hechizera10/blob/main/sources/logo%20400.png'></p>
+<p align='center'><img width="300px" alt="Firma" title="Firma" src='sources/firma double.png'></p>
 
 <p align=center ><em>¡Gracias por visitar mi perfil de GitHub!</em></p> 
 
