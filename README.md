@@ -47,6 +47,7 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
 
 
 <h4> 💙 Fundamentos de Programación: </h4>
+
   - [Appetito. Aplicación de precompra de Comida en Pseudocódigo, Pseint.](https://github.com/hechizera10/PedidosDeComida-Pseudocodigo-Pseint)
   - [Aplicación de Gestión de Normativas Legales. CRUD - Python, MySQL](https://github.com/ISPC-TSDWAD-2023/Modulo-Programador-ProyectoFinal)
   
