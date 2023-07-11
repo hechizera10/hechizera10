@@ -35,7 +35,7 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
 <details> 
   <summary><h3>📚 Mis proyectos </h3></summary>
   
-### 💚 FrontEnd
+<h4>💚 FrontEnd: </h4>
   
   - [Fundación Guay ONG - HTML, CSS, JS, Bootstrap, Salesforce](https://github.com/hechizera10/Salesforce-ProyectoFinal-Landing)
   - [Academia CaC - HTML, CSS, JS](https://github.com/Codo-a-Codo-Python/PAGINA-WEB-CODO-A-CODO)
@@ -46,7 +46,7 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
 
 
 
-### 💙 Fundamentos de Programación
+<h4> 💙 Fundamentos de Programación: </h4>
   - [Appetito. Aplicación de precompra de Comida en Pseudocódigo, Pseint.](https://github.com/hechizera10/PedidosDeComida-Pseudocodigo-Pseint)
   - [Aplicación de Gestión de Normativas Legales. CRUD - Python, MySQL](https://github.com/ISPC-TSDWAD-2023/Modulo-Programador-ProyectoFinal)
   
@@ -54,7 +54,7 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
 <details>
 <summary><h3>💻 Mis herramientas técnicas</h3></summary>
 
-### 💙 Lenguajes de programación:
+<h4> 💙 Lenguajes de programación: </h4>
 
 - HTML 
 - CSS
@@ -64,12 +64,12 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
 - Java
 - Salesforce Developer Tools
 
-### 💜 Librerías:
+<h4> 💜 Librerías: </h4>
 
 - Bootstrap
 - Sass
 
-### 💛 Frameworks:
+<h4> 💛 Frameworks: </h4>
 
 - ReactJS 
 - NodeJS
@@ -77,7 +77,7 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
 - NextJS
 - Angular
 
-### 💚 Bases de datos: 
+<h4> 💚 Bases de datos: </h4>
 
 - MongoDB 
 - MySQL
