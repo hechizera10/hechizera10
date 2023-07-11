@@ -34,60 +34,54 @@ Continuamente me esfuerzo por mejorar y estar actualizada en las últimas tenden
 
 <details> 
   <summary><h3>📚 Mis proyectos </h3></summary>
+  
+### 💚 FrontEnd
+  
+  - [Fundación Guay ONG - HTML, CSS, JS, Bootstrap, Salesforce](https://github.com/hechizera10/Salesforce-ProyectoFinal-Landing)
+  - [Academia CaC - HTML, CSS, JS](https://github.com/Codo-a-Codo-Python/PAGINA-WEB-CODO-A-CODO)
+  - [Sports Page - HTML semántico, CSS](https://github.com/hechizera10/Sports-Page-Challenge)
+  - [Pet Shop - HTML semántico, CSS](https://digital-house-ctd.github.io/FrontEnd1-HTML2/)
+  - [Heroes Page - HTML semántico, CSS](https://digital-house-ctd.github.io/FrontEnd1-Heroes/)
+  - [Pizzería- HTML semántico, CSS](https://github.com/Digital-House-CTD/FrontEnd1-Pizzeria)
 
-  <div align="center">
-    <a href=>
-      <img width="278" src="&bg_color=754731&title_color=FCD757&hide_border=true&icon_color=F8D866&show_icons=false">
-    </a>
-   <a href=>
-      <img width="278" src="&bg_color=754731&title_color=FCD757&hide_border=true&icon_color=F8D866&show_icons=false">
-    </a>
-   <a href=>
-      <img width="278" src="&bg_color=754731&title_color=FCD757&hide_border=true&icon_color=F8D866&show_icons=false">
-    </a>
-   <a href=>
-      <img width="278" src="&bg_color=754731&title_color=FCD757&hide_border=true&icon_color=F8D866&show_icons=false">
-    </a>
 
-  </div> 
 
-#
+### 💙 Fundamentos de Programación
+  - [Appetito. Aplicación de precompra de Comida en Pseudocódigo, Pseint.](https://github.com/hechizera10/PedidosDeComida-Pseudocodigo-Pseint)
+  - [Aplicación de Gestión de Normativas Legales. CRUD - Python, MySQL](https://github.com/ISPC-TSDWAD-2023/Modulo-Programador-ProyectoFinal)
+  
 </details>
-
-
 <details>
-
 <summary><h3>💻 Mis herramientas técnicas</h3></summary>
 
-<h4>💙 Lenguajes de programación:</h4> 
-  <ul>
-    <li>HTML </li>
-    <li>CSS </li>
-    <li>JavaScript </li>
-    <li>TypeScript </li>
-    <li>Python </li>
-    <li>Java</li>
-  </ul>
-<h4>💜 Librerías:</h4> 
-  <ul>
-    <li>Bootstrap</li>
-    <li>Sass</li>
-  </ul>
-<h4>💛 Frameworks:</h4> 
-  <ul>
-    <li>ReactJS </li>
-    <li>NodeJS </li>
-    <li>Express </li>
-    <li>NextJS </li>
-    <li>Angular</li>
-  </ul>
-<h4>💚 Bases de datos:</h4> 
-<ul>
-  <li>MongoDB </li>
-  <li>MySQL</li>
-</ul>
+### 💙 Lenguajes de programación:
 
-#
+- HTML 
+- CSS
+- JavaScript
+- TypeScript
+- Python
+- Java
+- Salesforce Developer Tools
+
+### 💜 Librerías:
+
+- Bootstrap
+- Sass
+
+### 💛 Frameworks:
+
+- ReactJS 
+- NodeJS
+- Express
+- NextJS
+- Angular
+
+### 💚 Bases de datos: 
+
+- MongoDB 
+- MySQL
+
 </details>
 
 <details>
